@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Winn76
 - 👀 I’m interested in .Net Core, Microservices, helping people out
-- 🌱 I’m currently learning Apache Kaftka
+- 🌱 I’m currently learning AWS Devops
 
 <!---
 Winn76/Winn76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
